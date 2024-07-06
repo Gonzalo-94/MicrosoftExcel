@@ -16,4 +16,4 @@ Transformar y vusualizar las ventas de la suc. AHU con la finalidad de tomar des
    
    ![Screenshot 2024-07-05 130107](https://github.com/Gonzalo-94/MicrosoftExcel/assets/174888498/78bc4184-fe88-4735-baeb-99474e4e22d3)
 ### Codigo utilizado en el análisis
-'''SELECT * FROM tabla'''
+``` SELECT * FROM tabla ```
